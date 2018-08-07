@@ -11,5 +11,6 @@ NOTES
    Lowercase web3 - is the web3 instance
 2) Provider - This is the communucation layer between web3 and some specific ethereum network
 3) Ganache is the local ethereum test network.
+4) You need an account to access ganache test net. Fortunately ganache-cli creates a set of accounts on the fly.
 
 */
